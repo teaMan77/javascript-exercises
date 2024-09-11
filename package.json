@@ -36,6 +36,7 @@
   "jest": {
     "testPathIgnorePatterns": [
       "generators/"
-    ]
+    ],
+    "testEnvironment": "node"
   }
 }
